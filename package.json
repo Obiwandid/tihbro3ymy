@@ -2,7 +2,7 @@
   "name": "twitch-oauth",
   "version": "1.0.0",
   "description": "Simple Express server for Twitch OAuth",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node index.js"
   },
